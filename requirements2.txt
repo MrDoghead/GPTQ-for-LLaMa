@@ -1,0 +1,11 @@
+safetensors
+datasets
+sentencepiece
+git+https://github.com/huggingface/transformers
+accelerate
+triton
+texttable
+toml
+numpy
+protobuf
+
